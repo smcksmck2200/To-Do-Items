@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    margin-left: 32px;
+}
+
+input {
+    margin-right: 8px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 16px;
+    height: 30px;
+    width: 80px;
+    margin-right: 8px;
+}

@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# To Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To Do List for our To Do List
++ See our Todos // Read
++ Be able to create a Todo // Create
++ Delete a Todo // Delete
++ Edit our Todos // Update
 
 ## Available Scripts
 
